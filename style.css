@@ -1,0 +1,47 @@
+.zhaman {
+	display: flex;
+	justify-content: space-evenly;
+}
+
+.center {
+	justify-content: center;
+}
+
+
+.card {
+	width: 285px;
+	height: 400px;
+}
+
+.card img {
+	width: auto;
+	height: 250px;
+}
+
+
+
+.card-text {
+	font-family: "Poppins", sans-serif;
+	font-weight: 500;
+	font-style: normal;
+	font-size: 16px;
+	color: grey;
+}
+
+.card-title {
+	font-family: "Poppins", sans-serif;
+	font-weight: 600;
+	font-style: normal;
+	font-size: 24px;
+}
+
+.card-body {
+	background-color: #F4F5F7;
+}
+
+.card-rub {
+	font-family: "Poppins", sans-serif;
+	font-weight: 600;
+	font-style: normal;
+	font-size: 20px;
+}
