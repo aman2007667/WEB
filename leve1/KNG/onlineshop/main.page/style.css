@@ -1,0 +1,21 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+.blue__main__page{
+    background-color: #264653;
+    width: 100%;
+    height: 40px;
+    display: flexbox;
+}
+.blue__main p{
+    color: aliceblue;
+    display: flex;
+    align-items: center;
+    padding-left: 100px;
+}
+.nav__bar__nav h1{
+    font-size: 45px;
+    margin-left: 110px;
+    margin-top: 30px;
+}
